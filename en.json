@@ -1,0 +1,22 @@
+{
+  "languages": {
+    "language-de": "App German",
+    "language-en": "App English",
+    "language-nl": "App Dutch"
+  },
+  "hello": "App Hello world!",
+  "apples": "App I have {{count}} apples!",
+  "dashboard": {
+    "title": "App Dashboard Title",
+    "content": "App Dashboard Content"
+  },
+  "time": {
+    "hour": "App English Hour",
+    "year": "App English Year",
+    "language-de": "test"
+  },
+  "paths": {
+    "home": "App Home",
+    "search": "App Suche"
+  }
+}
